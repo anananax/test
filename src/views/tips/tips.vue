@@ -20,6 +20,6 @@ export default {
   height: 60px;
   font-size: 30px;
   color: rgb(132, 23, 39);
-  font-weight: 500;
+  font-weight: 600;
 }
 </style>
